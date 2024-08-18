@@ -13,3 +13,8 @@ This is a simple calculator application built using Java Swing. The calculator c
 
 The calculator UI is arranged in a grid layout as follows:
 
+1 2 3 /
+4 5 6 *
+7 8 9 +
+0 C = -
+
